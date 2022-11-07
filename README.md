@@ -43,13 +43,13 @@ Kita mulai dengan if a < b dan if b > c lalu tambah kan else untuk penambah perc
 
 Kita mulai lagi dengan codingan seperti di bawah ini dengan for i range (0,10)
 
-![gambar1](gambar/GAMBAR18A.png)
+![gambar1](gambar/Gambar7.jpeg)
 
 Lakukan perintah ("ini di luar pernyataan if")
 
 Masukan for i range 0,10 supaya mendapat kan angka 1 sampai 10 lalu gabungkan i + j kemudin print untuk menghasilkan kan running gambar di bawah ini
 
-![gambar1](gambar/GAMBAR19A.png)
+![gambar1](gambar/Gambar8.jpeg)
 
 ## tugas 4
 
