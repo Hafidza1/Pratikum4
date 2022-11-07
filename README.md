@@ -78,7 +78,7 @@ Setelah melakukan perintah di atas masukan lah bilangan dari yang terbesar hingg
 
 # flowchart lab 2 praktikum 2
 
-![gambar1](gambar/Gambar23.pn)
+![gambar1](gambar/Gambar23.png)
 
 - Kita akan mencari nilai terbesar dari ketiga variabel tersebut Menentukan 3 varibel Eskpresikan dengan memasukan inputan Lalu kita akan melihat perbedaan bilangan terbesar antara ketiga nilai variabel Ekspresikan dengan membuat satu statemenet di variabel 
 
