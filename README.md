@@ -17,7 +17,7 @@ Selanjutnya tambah kan else untuk menambah kan aksi untuk menentukan mana yang l
 
 Masukan nilai yang di inginkan saya memasukan angka dan maka nilai terbesar nya adalah nah setelah di running inilah hasil nya
 
-![gambar1](gambar/GAMBAR2A.png)
+![gambar1](gambar/Gambar6.jpeg)
 
 
 ##  Tugas 2
@@ -27,20 +27,15 @@ Masukan nilai yang di inginkan saya memasukan angka dan maka nilai terbesar nya 
 
 Kita mulai dengan memasukan inputan seperti di bawah ini
 
-![gambar1](gambar/GAMBAR4A.png)
+![gambar1](gambar/Gambar3.jpeg)
 
-Lalu tambah kan if dan yang lainya agar seperti gambar di bawah ini 
+Lalu tambah kan if dan yang lainya agar seperti gambar di bawah ini,dan ini codingan yang saya buat
 
-![gambar1](gambar/GAMBAR16A.png)
-
-Codingan yang saya buat 
-
-![gambar1](gambar/GAMBAR3A.png)
-
+![gambar1](gambar/Gambar4.jpeg)
 
 Kita mulai dengan if a < b dan if b > c lalu tambah kan else untuk penambah percabangan maka ini lah hasil pada saat di running
 
-![gambar1](gambar/GAMBAR5A.png)
+![gambar1](gambar/Gambar5.jpeg)
 
 ## Tugas 3
 
