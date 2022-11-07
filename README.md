@@ -57,11 +57,11 @@ Masukan for i range 0,10 supaya mendapat kan angka 1 sampai 10 lalu gabungkan i 
 
 Kita mulai dengan codingan seperti gambar di bawah ini 
 
-![gambar1](gambar/GAMBAR8A.png)
+![gambar1](gambar/Gambar11.jpeg)
 
 Setelah itu kita running maka akan ada perintah untuk memasukan nilai N maka saya isi dengan angka 5 dan hasil nya adalah seperti gambar di bawah ini
 
-![gambar1](gambar/GAMBAR9A.png)
+![gambar1](gambar/Gambar12.jpeg)
 
 # lab2
 ## Tugas praktikum 3
@@ -70,11 +70,11 @@ Setelah itu kita running maka akan ada perintah untuk memasukan nilai N maka say
 
 Buat program sederhana dengan input tiga buah bilangan,dari ketiga bilangan tersebut menggunakan if
 
-![gambar1](gambar/GAMBAR21A.png)
+![gambar1](gambar/Gambar13.jpeg)
 
 Setelah melakukan perintah di atas masukan lah bilangan dari yang terbesar hingga terkecil maka akan ada hasil yang terbesar yang mana
 
-![gambar1](gambar/GAMBAR20A.png)
+![gambar1](gambar/Gambar14.jpeg)
 
 # flowchart lab 2 praktikum 2
 
@@ -88,8 +88,8 @@ Setelah melakukan perintah di atas masukan lah bilangan dari yang terbesar hingg
 ![gambar1](gambar/GAMBAR20A.png)
 
 - pertama kita akan deklarasi dan juga beri inputan ke variabel menggunakan variabel nlalu import random dengan memberi nilai secara acak  memberi batasan dengan variabel baru jumlah nya aalah 5membuat kondisi dengan menggunakan if ekspresikan hasil yang kita buat
-![gambar1](gambar/GAMBAR8A.png)
-![gambar1](gambar/GAMBAR9A.png)
+![gambar1](gambar/Gambar15.jpeg)
+![gambar1](gambar/Gambar16.jpeg)
 
 ## Latihan 2
 # Flowchart latihan 2 
@@ -102,11 +102,11 @@ Pertama tama masukn max = 0
 Fungsi nya adalah untuk mengetahui nilai terbesar nya yang mana lalu enter kemudian tambahkan perintah while true  : setelah itu enter pastikan spasi dua kali x int (input("masukan bilangan :")) lalu if max <x: 
 Kemudian pastikan sejajar dengan x masukan perintah max = x kemudian enter masukan perintah if x == 0: kemudian berikan spasi agar tidak sama dengan if masukan break untuk menghentikan adanya perulangan  
 
- ![gambar1](gambar/GAMBAR12A.png)
+ ![gambar1](gambar/Gambar17.jpeg)
 
 Memasukan nilai terbesar atau jumlah 
 
-![gambar1](gambar/GAMBAR13A.png)
+![gambar1](gambar/Gambar18.jpeg)
 
 ## pemrograman 1
 
@@ -118,8 +118,8 @@ Memasukan nilai terbesar atau jumlah
 
 Masukan nilai a = 100000000 kemudian masukan perintah for x in range ( 1,9) supaya ada 9 buah bulan pertama dan kedua laba hasil nya 0% bulan kedua ketiga hasil nya 1% bulan keempat sampai ketujuh naik sebelum nya 4% menjadi 5% bulan kedelapan 3% menurun 
 
-![gambar1](gambar/GAMBAR14A.png)
+![gambar1](gambar/Gambar19.jpeg)
 
 Maka hasil nya akan keluar seperti gambar runnning di bawah ini dari data bulan 1 sampai dengan bulan ke 8 beserta hasil nya 
 
-![gambar1](gambar/GAMBAR15A.png)
+![gambar1](gambar/Gambar20.jpeg)
