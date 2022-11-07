@@ -8,11 +8,11 @@ PROSES / LANGKAH - LANGKAH PRAKTIKUM 4
 Pertama kita harus memasukan inputan  seperti gambar di bawah ini, lalu tambah kan a > b: 
 Lalu lakukan perintah ("print bilangan terbesar = :") 
 
-![gambar1](gambar/GAMBAR1A.png)
+![gambar1](gambar/Gambar1.jpeg)
 
 Selanjutnya tambah kan else untuk menambah kan aksi untuk menentukan mana yang lebih besar antara a dan b
 
-![gambar1](gambar/GAMBAR17A.png)
+![gambar1](gambar/Gambar2.jpeg)
 
 
 Masukan nilai yang di inginkan saya memasukan angka dan maka nilai terbesar nya adalah nah setelah di running inilah hasil nya
